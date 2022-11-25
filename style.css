@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+}
+header{
+    
+    width: 100%;
+    padding-left: 120px;
+    padding-right: 30px;
+    background-color: black;
+}
+nav{
+    background-color: black;
+    
+}
+a{
+    color:white;
+    
+    
+    
+    display: inline-block;
+   
+    text-decoration: none;
+    position: relative;
+    margin:10px;
+   
+    
+}
+a:hover{
+    color:blue
+}
+body{
+    background-image: url(image/backgroung\ image.jpg);
+}
+.mobile{
+    margin:125px;
+    display:flex;
+    
+}
+h1{
+    color:white;
+    margin:50px;
+    font-size: 15;
+}
+h2{
+    border:2px solid white;
+}
